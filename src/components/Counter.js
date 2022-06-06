@@ -18,7 +18,7 @@ const Counter = () => {
   return (
     <main className={classes.counter}>
       <h1>Redux Counter</h1>
-      <div className={classes.value}>Increment</div>
+      <div className={classes.value}>-- INCREMENT --</div>
       <div>
         <button >Increment</button>
         <button >Decrement</button>
